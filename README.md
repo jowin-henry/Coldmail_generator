@@ -1,6 +1,6 @@
-# 📧 Cold Mail Generator
+# 📧 RAG-based Cold Mail Generator
 
-Inspired by CodeBasics YouTube channel, this cold email generator is designed for service companies. It uses Groq, LangChain, and Streamlit to help users create personalized cold emails.
+This cold email generator is designed for service companies. It uses Groq, LangChain, and Streamlit to help users create personalized cold emails. Inspired from CodeBasics YouTube channel
 
 Users input the URL of a company’s careers page, and the tool extracts job listings from that page. It then generates tailored cold emails that include relevant portfolio links retrieved from a vector database, matched specifically to the job descriptions.
 
